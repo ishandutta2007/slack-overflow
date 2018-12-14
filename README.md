@@ -44,3 +44,10 @@ You will need to set the `SE_KEY` environment variable in your heroku app in ord
 ## Contributing
 
 - Please use the [issue tracker](https://github.com/karan/slack-overflow/issues) to report any bugs or file feature requests.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
